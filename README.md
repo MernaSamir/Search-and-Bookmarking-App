@@ -8,22 +8,19 @@
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed [Node.js](https://nodejs.org/en/) (version X.X.X or higher).
-- You have installed [Git](https://git-scm.com/).
-- You have a `<Windows/Linux/Mac>` machine. State any OS-specific requirements.
-- You have read the documentation of the project.
-
+- You have installed [Node.js](https://nodejs.org/en/) (version 18 or higher).
+- You have installed [Nextjs](use npm) (version 14) 
 ## Installation
 
 To install the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/MernaSamir/Search-and-Bookmarking-App
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-repository
+    cd repository
     ```
 3. Install the dependencies:
     ```bash
